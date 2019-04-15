@@ -14,6 +14,7 @@ import java.util.List;
 @ContextConfiguration("classpath:spring.xml")
 public class TestEmp {
 
+
     @Autowired
     private EmpDao empDao;
 
