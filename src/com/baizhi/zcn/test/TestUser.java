@@ -10,7 +10,7 @@ public class TestUser {
     @Test
     public void Testa() {
         ArrayList<String> s = new ArrayList<>();
-
+        System.out.println("bbbb");
         System.out.println("======");
     }
 }
